@@ -7,7 +7,7 @@
 [*Enrollment dApp- rust version*](https://github.com/AymanF10/Enrollment_dApp_Rust_version) : Solana Enrollment dApp (Rust Version)
 This project demonstrates interaction with the Solana blockchain using Rust. It includes scripts for generating a keypair, requesting an airdrop, transferring tokens, and enrolling in the Turbin3 prerequisite program.
 
-<h3>Solana Apps</h3>
+<h3>Solana Programs</h3>
 
 [*Solana Starter Program*](https://github.com/AymanF10/solana-starter) : This Repository includes SPL token minting program, NFT minting, and Vaults excercises for the Turbin3 Q1 25 Builders Cohort. 
 
