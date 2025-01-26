@@ -9,7 +9,7 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 
 <h3>Solana Programs</h3>
 
-[*Solana Starter Program*](https://github.com/AymanF10/solana-starter) : This Repository includes SPL token minting program, NFT minting, and Vaults excercises for the Turbin3 Q1 25 Builders Cohort. 
+[*Solana Starter Program*](https://github.com/AymanF10/solana-starter) : This Repository includes SPL token minting, NFT minting, and Vaults.
 
 [*Anchor Vault Program*](https://github.com/AymanF10/anchor_vault) : This is an Anchor-based Solana program that implements a simple vault system. Users can initialize a vault, deposit funds, withdraw funds, and close the vault.
 
