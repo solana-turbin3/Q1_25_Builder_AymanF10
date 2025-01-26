@@ -13,4 +13,4 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 
 [*Anchor Vault Program*](https://github.com/AymanF10/anchor_vault) : This is an Anchor-based Solana program that implements a simple vault system. Users can initialize a vault, deposit funds, withdraw funds, and close the vault.
 
-[*<i>Anchor Escrow</i>*](https://github.com/AymanF10/anchor_escrow) : The Anchor Escrow program facilitates secure token exchanges between two parties (maker and taker) without the need for a trusted intermediary.
+[*Anchor Escrow Program*](https://github.com/AymanF10/anchor_escrow) : The Anchor Escrow program facilitates secure token exchanges between two parties (maker and taker) without the need for a trusted intermediary.
