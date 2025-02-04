@@ -14,3 +14,6 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 [*Anchor Vault Program*](https://github.com/AymanF10/anchor_vault) : This is an Anchor-based Solana program that implements a simple vault system. Users can initialize a vault, deposit funds, withdraw funds, and close the vault.
 
 [*Anchor Escrow Program*](https://github.com/AymanF10/anchor_escrow) : The Anchor Escrow program facilitates secure token exchanges between two parties (maker and taker) without the need for a trusted intermediary.
+
+[*Anchor Marketplace Program*](https://github.com/AymanF10/anchor_marketplace): Anchor Marketplace is a decentralized NFT marketplace built on the Solana blockchain using the Anchor framework. This project demonstrates how to create a robust and flexible marketplace for listing, purchasing, and managing NFTs.
+
