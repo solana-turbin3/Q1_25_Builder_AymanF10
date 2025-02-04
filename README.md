@@ -17,3 +17,9 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 
 [*Anchor Marketplace Program*](https://github.com/AymanF10/anchor_marketplace): Anchor Marketplace is a decentralized NFT marketplace built on the Solana blockchain using the Anchor framework. This project demonstrates how to create a robust and flexible marketplace for listing, purchasing, and managing NFTs.
 
+[*Anchor AMM Program*](https://github.com/AymanF10/anchor_amm): This project implements an Automated Market Maker (AMM) using the Anchor framework on the Solana blockchain. The AMM uses a constant product formula for liquidity provision and token swaps.
+
+[*Anchor Nft_Staking Program*](https://github.com/AymanF10/anchor_nft_staking): This Solana program, built using the Anchor framework, implements an NFT staking mechanism. Users can stake their NFTs to earn points over time, with various configurable parameters to control the staking process.
+
+
+
