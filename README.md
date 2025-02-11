@@ -21,5 +21,6 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 
 [*Anchor Nft-Staking Program*](https://github.com/AymanF10/anchor_nft_staking): This Solana program, built using the Anchor framework, implements an NFT staking mechanism. Users can stake their NFTs to earn points over time, with various configurable parameters to control the staking process.
 
+[*Anchor Dice Game*](https://github.com/AymanF10/anchor_dice_game)
 
 
