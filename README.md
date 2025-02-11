@@ -9,6 +9,8 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 
 <h3>Solana Programs</h3>
 
+[*CuraChain(Capstone)*](https://github.com/AymanF10/CuraChain) : CuraChain is a decentralized crowdfunding platform designed to connect patients in need of medical treatment with philanthropic donors. It aims to facilitate transparent and secure funding for medical cases, ensuring that contributions directly support the intended healthcare services.
+
 [*Solana Starter Program*](https://github.com/AymanF10/solana-starter) : This Repository includes SPL token minting, NFT minting, and Vaults.
 
 [*Anchor Vault Program*](https://github.com/AymanF10/anchor_vault) : This is an Anchor-based Solana program that implements a simple vault system. Users can initialize a vault, deposit funds, withdraw funds, and close the vault.
