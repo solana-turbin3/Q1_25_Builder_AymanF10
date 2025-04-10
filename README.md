@@ -6,10 +6,13 @@
 
 [*Q2_Enrollment dApp- rust version*](https://github.com/AymanF10/Q2_Enrollment_dApp_Rust_version) : A Rust implementation showcasing Solana network operations with automated workflows for secure key generation, airdrop distribution, and token transaction management.
 
+<h3> Q2 Solana Programs</h3>
 
+[*Q2_Starter_Program*](https://github.com/AymanF10/Q2_Starter) : Implements Solana's Token Program for creating/managing fungible SPL tokens and NFT minting workflows using Metaplex standards (compressed NFTs, on-chain metadata storage, creator royalty enforcement). Demonstrates token lifecycle management from mint initialization to distribution through programmable CPI instructions.
 
+[*Q2_Vault_Program*](https://github.com/AymanF10/Q2_Vault) : An Anchor-based program leveraging PDAs for trustless SOL management with automated ownership controls. Enables self-custodial deposits/withdrawals through program-derived authority.
 
-
+[*Q2_Escrow_Program*](https://github.com/AymanF10/Q2_Escrow) : The Anchor Escrow program enables secure, trustless token transactions between a maker (initiator) and a taker (counterparty) through blockchain-based smart contracts, eliminating reliance on centralized intermediaries by automating exchange terms and ensuring cryptographic validation.
 
 
 <h3> Q1 Prerequisite Programs</h3>
