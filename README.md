@@ -1,5 +1,17 @@
 <h1> Q1 and Q2 2025 Builders Cohort Repositories from AymanF10.</h1>
 
+<h3> Q2 Prerequisite Programs</h3>
+
+[*Q2_Enrollment dApp- typescript version*](https://github.com/AymanF10/Q2_Enrollment_dApp_Typescript_version)  : This repository provides a comprehensive TypeScript implementation for core blockchain operations on Solana, leveraging the official @solana/web3.js library. It demonstrates wallet management (key generation/authentication), network interactions (RPC connections/querying), &transaction workflows including SOL transfers, airdrop requests, smartcontracts.
+
+[*Q2_Enrollment dApp- rust version*](https://github.com/AymanF10/Q2_Enrollment_dApp_Rust_version) : A Rust implementation showcasing Solana network operations with automated workflows for secure key generation, airdrop distribution, and token transaction management.
+
+
+
+
+
+
+
 <h3> Q1 Prerequisite Programs</h3>
 
 [*Enrollment dApp- typescript version*](https://github.com/AymanF10/Enrollment_dApp_Typescript_version)  : Solana Airdrop and Enrollment Project. This project demonstrates how to interact with the Solana blockchain using TypeScript. 
