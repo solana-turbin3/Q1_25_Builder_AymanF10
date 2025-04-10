@@ -12,7 +12,7 @@
 
 [*Q2_Vault_Program*](https://github.com/AymanF10/Q2_Vault) : An Anchor-based program leveraging PDAs for trustless SOL management with automated ownership controls. Enables self-custodial deposits/withdrawals through program-derived authority.
 
-[*Q2_Escrow_Program*](https://github.com/AymanF10/Q2_Escrow) : The Anchor Escrow program enables secure, trustless token transactions between a maker (initiator) and a taker (counterparty) through blockchain-based smart contracts, eliminating reliance on centralized intermediaries by automating exchange terms and ensuring cryptographic validation.
+[*Q2_Solana_Escrow_Program*](https://github.com/AymanF10/Q2_Solana_Escrow) : The Anchor Escrow program enables secure, trustless token transactions between a maker (initiator) and a taker (counterparty) through blockchain-based smart contracts, eliminating reliance on centralized intermediaries by automating exchange terms and ensuring cryptographic validation.
 
 =========================================================================
 
