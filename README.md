@@ -1,6 +1,6 @@
 <h1> Q1 and Q2 2025 Builders Cohort Repositories from AymanF10.</h1>
 
-<h3> Q1 rerequisite Programs</h3>
+<h3> Q1 Prerequisite Programs</h3>
 
 [*Enrollment dApp- typescript version*](https://github.com/AymanF10/Enrollment_dApp_Typescript_version)  : Solana Airdrop and Enrollment Project. This project demonstrates how to interact with the Solana blockchain using TypeScript. 
 
