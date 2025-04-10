@@ -8,7 +8,7 @@
 
 <h3> Q2 Solana Programs</h3>
 
-[*Q2_Starter_Program*](https://github.com/AymanF10/Q2_Starter) : Implements Solana's Token Program for creating/managing fungible SPL tokens and NFT minting workflows using Metaplex standards (compressed NFTs, on-chain metadata storage, creator royalty enforcement). Demonstrates token lifecycle management from mint initialization to distribution through programmable CPI instructions.
+[*Q2_Solana-Starter_Program*](https://github.com/AymanF10/Q2_Solana-Starter) : Implements Solana's Token Program for creating/managing fungible SPL tokens and NFT minting workflows using Metaplex standards (compressed NFTs, on-chain metadata storage, creator royalty enforcement). Demonstrates token lifecycle management from mint initialization to distribution through programmable CPI instructions.
 
 [*Q2_Solana_Vault_Program*](https://github.com/AymanF10/Q2_Solana_Vault) : An Anchor-based program leveraging PDAs for trustless SOL management with automated ownership controls. Enables self-custodial deposits/withdrawals through program-derived authority.
 
