@@ -10,7 +10,7 @@
 
 [*Q2_Starter_Program*](https://github.com/AymanF10/Q2_Starter) : Implements Solana's Token Program for creating/managing fungible SPL tokens and NFT minting workflows using Metaplex standards (compressed NFTs, on-chain metadata storage, creator royalty enforcement). Demonstrates token lifecycle management from mint initialization to distribution through programmable CPI instructions.
 
-[*Q2_Vault_Program*](https://github.com/AymanF10/Q2_Vault) : An Anchor-based program leveraging PDAs for trustless SOL management with automated ownership controls. Enables self-custodial deposits/withdrawals through program-derived authority.
+[*Q2_Solana_Vault_Program*](https://github.com/AymanF10/Q2_Solana_Vault) : An Anchor-based program leveraging PDAs for trustless SOL management with automated ownership controls. Enables self-custodial deposits/withdrawals through program-derived authority.
 
 [*Q2_Solana_Escrow_Program*](https://github.com/AymanF10/Q2_Solana_Escrow) : The Anchor Escrow program enables secure, trustless token transactions between a maker (initiator) and a taker (counterparty) through blockchain-based smart contracts, eliminating reliance on centralized intermediaries by automating exchange terms and ensuring cryptographic validation.
 
