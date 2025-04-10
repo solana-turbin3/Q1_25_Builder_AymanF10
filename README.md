@@ -14,7 +14,7 @@
 
 [*Q2_Escrow_Program*](https://github.com/AymanF10/Q2_Escrow) : The Anchor Escrow program enables secure, trustless token transactions between a maker (initiator) and a taker (counterparty) through blockchain-based smart contracts, eliminating reliance on centralized intermediaries by automating exchange terms and ensuring cryptographic validation.
 
-==================================================================================================================
+=================================================================================================
 
 <h3> Q1 Prerequisite Programs</h3>
 
