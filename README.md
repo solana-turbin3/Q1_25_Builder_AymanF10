@@ -14,6 +14,8 @@
 
 [*Q2_Solana_Escrow_Program*](https://github.com/AymanF10/Q2_Solana_Escrow) : The Anchor Escrow program enables secure, trustless token transactions between a maker (initiator) and a taker (counterparty) through blockchain-based smart contracts, eliminating reliance on centralized intermediaries by automating exchange terms and ensuring cryptographic validation.
 
+[*Q2_Solana_Amm_Program*](https://github.com/AymanF10/Q2_Solana_Amm) : This project implements a decentralized Automated Market Maker (AMM) protocol on Solana blockchain leveraging Anchor framework for robust smart contract architecture. The system employs a constant product invariant (x*y=k) model to enable algorithmic liquidity provisioning and trustless token exchange mechanisms.
+
 =========================================================================
 
 <h3> Q1 Prerequisite Programs</h3>
