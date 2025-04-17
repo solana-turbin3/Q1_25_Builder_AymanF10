@@ -16,7 +16,7 @@
 
 [*Q2_Solana_Amm_Program*](https://github.com/AymanF10/Q2_Solana_Amm) : This project implements a decentralized Automated Market Maker (AMM) protocol on Solana blockchain leveraging Anchor framework for robust smart contract architecture. The system employs a constant product invariant (x*y=k) model to enable algorithmic liquidity provisioning and trustless token exchange mechanisms.
 
-[*Q2_Solana_Market_Program*](https://github.com/AymanF10/Q2_Solana_Marketplace) : Anchor Marketplace- is a decentralized exchange protocol for non-fungible tokens (NFTs) engineered on Solana's high-performance blockchain utilizing the Anchor framework. This enterprise-grade solution implements secure asset escrow mechanisms, programmable royalty structures, and atomic swap functionality for streamlined NFT market operations.
+[*Q2_Solana_Marketplace_Program*](https://github.com/AymanF10/Q2_Solana_Marketplace) : Anchor Marketplace- is a decentralized exchange protocol for non-fungible tokens (NFTs) engineered on Solana's high-performance blockchain utilizing the Anchor framework. This enterprise-grade solution implements secure asset escrow mechanisms, programmable royalty structures, and atomic swap functionality for streamlined NFT market operations.
 
 [*Q2_Solana_Staking_Program*](https://github.com/AymanF10/Q2_Solana_Staking) : Anchor Staking is a Solana-based smart contract system engineered using Anchor's framework, enabling decentralized NFT staking with time-weighted reward accrual. The solution features programmable governance parameters for customizable staking durations, reward multipliers, and asset-locking mechanisms to optimize incentive structures.
 
