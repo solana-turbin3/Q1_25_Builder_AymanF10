@@ -2,6 +2,8 @@
 
 <h3> Q2 Prerequisite Programs</h3>
 
+[*CuraChain(Capstone)*](https://github.com/AymanF10/CuraChain) : CuraChain is a decentralized crowdfunding platform designed to connect patients in need of medical treatment with philanthropic donors. It aims to facilitate transparent and secure funding for medical cases, ensuring that contributions directly support the intended healthcare services.
+
 [*Q2_Enrollment dApp- typescript version*](https://github.com/AymanF10/Q2_Enrollment_dApp_Typescript_version)  : This repository provides a comprehensive TypeScript implementation for core blockchain operations on Solana, leveraging the official @solana/web3.js library. It demonstrates wallet management (key generation/authentication), network interactions (RPC connections/querying), &transaction workflows including SOL transfers, airdrop requests, smartcontracts.
 
 [*Q2_Enrollment dApp- rust version*](https://github.com/AymanF10/Q2_Enrollment_dApp_Rust_version) : A Rust implementation showcasing Solana network operations with automated workflows for secure key generation, airdrop distribution, and token transaction management.
